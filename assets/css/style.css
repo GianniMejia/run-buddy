@@ -320,4 +320,9 @@
       font-size: 42px;
       font-style: italic;
     }
+
+    .hero {
+      margin: 20px;
+      background-color: white; 
+    }
  
